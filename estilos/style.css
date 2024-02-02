@@ -1,0 +1,25 @@
+body,
+html{
+    margin: 0;
+}
+body{
+    background: #ddd;
+    font-size: 16px;
+    font-family: 'Open Sans', Helvetica, sans-serif;
+}
+.container{
+    padding: 10px;
+    height: 100%;
+    width: 650px;
+    margin: auto;
+    background-color: gray;
+}
+
+p,
+li{
+   line-height: 2; 
+   letter-spacing: 1px;
+}
+img{
+    width: 100%;
+}
